@@ -6,4 +6,4 @@ The classic Paxos consensus algorithm requires a static set of 2F + 1 processes 
 
 The article describes a generic way to prove the correctness of paxos-based distributes systems during the change of configuration and uses it to prove the correctness of membership changes.
 
-Url: [http://rystsov.info/files/dynamic-plain-paxos.pdf](http://rystsov.info/files/dynamic-plain-paxos.pdf)
+Full article: [http://rystsov.info/files/dynamic-plain-paxos.pdf](http://rystsov.info/files/dynamic-plain-paxos.pdf)
